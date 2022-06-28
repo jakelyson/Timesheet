@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="Paymatic">
+  <DataContextMoniker Name="/PaymaticDataContext" />
+  <nestedChildShapes>
+    <classShape Id="095bbedc-e29e-4262-8d10-d149d8219a2f" absoluteBounds="0.875, 1.125, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/PaymaticDataContext/tbl_TimesheetRawNew" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d89bb70-f985-4d6c-b6e3-3da4d3215bef" absoluteBounds="0.89000000000000012, 1.585, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f79e3efa-d8a4-4713-ba0b-4dec43b015da" absoluteBounds="3.5, 1.125, 2, 2.7324039713541666">
+      <DataClassMoniker Name="/PaymaticDataContext/tbl_TimeSheet" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2f4565f7-9d5f-4b83-b42d-4e1ee60db385" absoluteBounds="3.5149999999999997, 1.585, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

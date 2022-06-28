@@ -1,0 +1,28 @@
+D:\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe.config
+D:\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe
+D:\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.pdb
+D:\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csprojResolveAssemblyReference.cache
+D:\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.Properties.Resources.resources
+D:\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.GenerateResource.Cache
+D:\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.exe
+D:\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.pdb
+C:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe.config
+C:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe
+C:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.pdb
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csprojResolveAssemblyReference.cache
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.Properties.Resources.resources
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.GenerateResource.cache
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.CoreCompileInputs.cache
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.exe
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.pdb
+C:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.ResolveComReference.cache
+D:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe.config
+D:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.exe
+D:\Joel Files\Projects\TimeSheet\Paymatic\bin\Debug\Paymatic.pdb
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csprojAssemblyReference.cache
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.ResolveComReference.cache
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.Properties.Resources.resources
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.GenerateResource.cache
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.csproj.CoreCompileInputs.cache
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.exe
+D:\Joel Files\Projects\TimeSheet\Paymatic\obj\Debug\Paymatic.pdb
