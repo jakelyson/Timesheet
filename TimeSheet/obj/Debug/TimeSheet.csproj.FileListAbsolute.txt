@@ -32,14 +32,11 @@ D:\Joel Files\Projects\TimeSheet\TimeSheet\bin\Debug\TimeSheet.exe
 D:\Joel Files\Projects\TimeSheet\TimeSheet\bin\Debug\TimeSheet.pdb
 D:\Joel Files\Projects\TimeSheet\TimeSheet\bin\Debug\Paymatic.exe
 D:\Joel Files\Projects\TimeSheet\TimeSheet\bin\Debug\Paymatic.pdb
-D:\Joel Files\Projects\TimeSheet\TimeSheet\bin\Debug\Paymatic.exe.config
-D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csprojAssemblyReference.cache
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\Interop.Microsoft.Office.Core.dll
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.ResolveComReference.cache
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.Form1.resources
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.Properties.Resources.resources
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.GenerateResource.cache
-D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.CoreCompileInputs.cache
-D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.csproj.CopyComplete
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.exe
 D:\Joel Files\Projects\TimeSheet\TimeSheet\obj\Debug\TimeSheet.pdb
+D:\Joel Files\Projects\Timesheet\TimeSheet\obj\Debug\TimeSheet.csprojResolveAssemblyReference.cache

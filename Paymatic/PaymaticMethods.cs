@@ -153,6 +153,11 @@ namespace Paymatic
                         case 1: //out
                             if (dtr.TimeIn == null)
                             {
+                                //out of previous day
+                                if ((int)item.Shift == 3 && ((DateTime)item.Punch).Date == starttime.Date)
+                                {
+                                    break; 
+                                }
                                 //invalid : no time in 
                                 ErrorLog(item);
                                 break;
